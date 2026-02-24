@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mike  
+# 👋 Hi, I'm Thugeny
 **Endpoint Security & Automation Engineer — Microsoft Cloud**
 
 I build tools that turn Defender, Intune and Entra data into safe, auditable, one-click remediation.
