@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Thugney/thugney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Thugney/thugney** is a ✨ Endpoint Security & Automation Engineer (Microsoft Cloud) ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
